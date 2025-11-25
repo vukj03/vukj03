@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Vuk Jovanović
+💻 IT Student | Python & PHP Developer | Cybersecurity Enthusiast
 
-<!--
-**vukj03/vukj03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate IT student dedicated to building practical web applications and exploring cybersecurity. I enjoy turning ideas into functional solutions through clean code and problem-solving.
 
-Here are some ideas to get you started:
+My main focus is on Python and PHP development with Flask and Laravel, but I also have experience with C/C#, JavaScript, SQL, Linux, and system administration. I believe that good code should be both functional and secure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Tech & Tools
+🖥️ Front-end: HTML • CSS • JavaScript
+⚙️ Back-end: Python • PHP • Flask • Laravel • C/C#
+🗄️ Databases: SQL • MySQL
+🔧 Other: Linux • Bash • Git • Cybersecurity
+
+🎯 My Focus
+- Continuous learning in software development and cybersecurity
+- Writing clean, maintainable code
+- Building practical, real-world projects
+- Exploring system administration and security
+
+🌱 Currently
+- Expanding my knowledge of backend development
+- Working on university projects
+- Developing my cybersecurity skills
+
+📫 Let's Connect
+💼 LinkedIn: http://linkedin.com/in/vuk-jovanovic-8293a238b
+📧 vukj03@gmail.com
